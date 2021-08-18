@@ -1,0 +1,11 @@
+#> IBM Capstone Project: The Battle of the Neighborhoods
+##  Open new Turkish Restaurant in Bucharest, Romania
+##  Introduction
+##  In this project, I will determine which place is good for opening Turkish Restaurant in Bucharest, Romania
+
+##  I will convert address data into their equivalent latitude and longitude values.
+#### for Bucharest neighborhood data, I will use wikipedia , https://en.wikipedia.org/wiki/Category:Districts of Bucharest
+##I will use the Foursquare API to explore Bucharest neighborhoods and to get venues in neighborhoods.
+##I will use the Foursquare API to get venue ratings and likes in neighborhoods.
+##I will use the k-means clustering and Agglomerative algorithms to complete clustering task
+#vI will use the Folium library to visualize the neighborhoods, venues , clusters in Bucharest
